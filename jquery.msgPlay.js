@@ -1,4 +1,4 @@
-// jQuery 1.2.3 plugin by bootleq@gmail.com 2008-03-06
+// jQuery plugin by bootleq@gmail.com 2008-03-06
 
 (function($) {
 
